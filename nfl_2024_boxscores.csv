@@ -1,3 +1,5 @@
 GameID,Date,Team,Opponent,FinalScore,Stat,PLAYER,YDS
-game1,2024-09-01,Team A,Team B,24-17,Rushing,Player 1,120
-game2,2024-09-08,Team B,Team A,17-24,Rushing,Player 2,85
+week1_game1,2024-09-08,Chargers,Dolphins,27-24,Rushing,Austin Ekeler,117
+week1_game1,2024-09-08,Dolphins,Chargers,24-27,Rushing,Raheem Mostert,98
+week1_game2,2024-09-08,49ers,Rams,31-17,Passing,Brock Purdy,305
+week1_game2,2024-09-08,Rams,49ers,17-31,Passing,Matthew Stafford,274
